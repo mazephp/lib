@@ -1,5 +1,5 @@
 {
-    "name": "mazephp/lib",
+    "name": "mazephp/library",
     "type": "library",
     "description": "mazephp library",
     "keywords": ["framework","library"],

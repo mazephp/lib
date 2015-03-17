@@ -1,0 +1,25 @@
+{
+    "name": "mazephp/lib",
+    "type": "library",
+    "description": "mazephp library",
+    "keywords": ["framework","library"],
+    "homepage": "https://github.com/mazephp/library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Robin Josey",
+            "email": "2934170@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "files": [
+            "autoload.php"
+        ],
+        "psr-0": {
+            "Maze": "src/"
+        }
+    }
+}
